@@ -1,0 +1,11 @@
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\bin\Debug\Magen_form.exe.config
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\bin\Debug\Magen_form.exe
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\bin\Debug\Magen_form.pdb
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.csproj.AssemblyReference.cache
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.Form1.resources
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.Properties.Resources.resources
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.csproj.GenerateResource.cache
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.csproj.CoreCompileInputs.cache
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.exe
+C:\Users\VISUAL PROGRAM\source\repos\Magen_form\obj\Debug\Magen_form.pdb
